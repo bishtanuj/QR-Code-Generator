@@ -19,4 +19,4 @@ To run the QR code generator, you need:
 * A device with camera (for scanning QR codes)
 
 ### License
-This QR code generator is licensed under the MIT License. See the [LICENSE]() for more details.
+This QR code generator is licensed under the MIT License. See the [LICENSE](/LICENSE) for more details.
