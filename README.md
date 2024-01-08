@@ -12,3 +12,11 @@ To use the QR code generator, follow these steps:
 2. Open the application.
 3. Enter the data (includes URLs, text, contacts, email, SMS) in URL section and press enter.
 4. An image will get created in the same folder, named as `qrcode.png`.
+
+### Requirements
+To run the QR code generator, you need:
+* A software that can extract the files from the archive such as WinRAR, 7-Zip and many more.
+* A device with camera (for scanning QR codes)
+
+### License
+This QR code generator is licensed under the MIT License. See the [LICENSE]() for more details.
