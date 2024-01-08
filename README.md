@@ -20,3 +20,6 @@ To run the QR code generator, you need:
 
 ### License
 This QR code generator is licensed under the MIT License. See the [LICENSE](/LICENSE) for more details.
+
+### Credits
+This QR code generator is developed using Python 3.12.1
