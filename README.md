@@ -1,4 +1,4 @@
-![qcg](https://github.com/bishtanuj/QR-Code-Generator/assets/78249280/148ba4ca-d43a-4058-88c1-37e91fce59a6)
+<img align="left" alt="logo" width ="60px" src="https://github.com/bishtanuj/QR-Code-Generator/assets/78249280/148ba4ca-d43a-4058-88c1-37e91fce59a6"/>
 # QR Code Generator
 
 _This is a simple and easy to use QR code generator that can create QR code from URL (Uniform Resource Locator). The QR code can be downloaded in PNG format._
