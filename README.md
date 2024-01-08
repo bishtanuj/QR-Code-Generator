@@ -2,6 +2,10 @@
 
 _This is a simple and easy to use QR code generator that can create QR code from URL (Uniform Resource Locator). The QR code can be downloaded in PNG format._
 
+### Features
+* Generate QR code from URL.
+* Download QR code in PNG, JPG, JPEG, SVG format.
+
 ### How to use?
 To use the QR code generator, follow these steps:
 1. Download the QR code generator.
