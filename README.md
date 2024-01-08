@@ -1,6 +1,6 @@
 # QR Code Generator <img align="right" alt="logo" width ="200px" src="https://github.com/bishtanuj/QR-Code-Generator/assets/78249280/148ba4ca-d43a-4058-88c1-37e91fce59a6"/>
 
-_This is a simple and easy to use QR code generator that can create QR code from URLs, text, contacts, email, SMS and more. The QR code can be downloaded in PNG format._
+_This is a simple and easy to use QR code generator that can create QR code from URLs, text, contacts, email, SMS and more. The QR code can be downloaded in PNG, JPG, JPEG or SVG format._
 
 ### Features
 * Generate QR code from URL.
