@@ -2,7 +2,7 @@
 
 _This is a simple and easy to use QR code generator that can create QR code from URLs, text, contacts, email, SMS and more. The QR code can be downloaded in PNG, JPG, JPEG or SVG format._
 
->A Quick Response code is a two-dimensional pictographic code used for its fast readability and comparatively large storage capacity. The code generally consists of black modules arranged in a square pattern on a white background. The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols)
+>_**A Quick Response code is a two-dimensional pictographic code used for its fast readability and comparatively large storage capacity. The code generally consists of black modules arranged in a square pattern on a white background. The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols)**_
 
 ### Features
 * Generate QR code from URL.
