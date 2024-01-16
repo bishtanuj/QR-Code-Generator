@@ -1,8 +1,8 @@
 # QR Code Generator <img align="right" alt="logo" width ="200px" src="https://github.com/bishtanuj/QR-Code-Generator/assets/78249280/148ba4ca-d43a-4058-88c1-37e91fce59a6"/>
 
->_This is a simple and easy to use QR code generator that can create QR code from URLs, text, contacts, email, SMS and more. The QR code can be downloaded in PNG, JPG, JPEG or SVG format._
+_This is a simple and easy to use QR code generator that can create QR code from URLs, text, contacts, email, SMS and more. The QR code can be downloaded in PNG, JPG, JPEG or SVG format._
 
-A Quick Response code is a two-dimensional pictographic code used for its fast readability and comparatively large storage capacity. The code generally consists of black modules arranged in a square pattern on a white background. The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols)
+>A Quick Response code is a two-dimensional pictographic code used for its fast readability and comparatively large storage capacity. The code generally consists of black modules arranged in a square pattern on a white background. The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols)
 
 ### Features
 * Generate QR code from URL.
