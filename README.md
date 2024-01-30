@@ -1,4 +1,5 @@
-[![Licence](https://img.shields.io/github/license/bishtanuj/QR-Code-Generator?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/bishtanuj/QR-Code-Generator?style=for-the-badge)](./LICENSE) &emsp;
+[![Stars](https://img.shields.io/github/stars/bishtanuj/QR-Code-Generator?style=for-the-badge)](./STARS)
 
 # QR Code Generator <img align="right" alt="logo" width ="200px" src="https://github.com/bishtanuj/QR-Code-Generator/assets/78249280/148ba4ca-d43a-4058-88c1-37e91fce59a6"/>
 
