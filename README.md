@@ -28,3 +28,5 @@ This QR code generator is licensed under the MIT License. See the [LICENSE](/LIC
 
 ### Credits
 This QR code generator is developed using Python 3.12.1
+
+---
